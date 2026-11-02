@@ -9,7 +9,6 @@
 | Kelas         | A                         |
 | Program Studi | Teknik Informatika                  |
 | Mata Kuliah   | Prak. Desain Web                    |
-| Tema          | Company Profile PT GoTo Gojek Tokopedia Tbk |
 
 ---
 
@@ -48,7 +47,7 @@
 
 ---
 
-## 🛠️ Struktur Folder
+## Struktur Folder
 
 ```text
 Pertemuan7/
@@ -74,11 +73,10 @@ Pertemuan7/
 └── README.md
 ```
 
-## Deskripsi Proyek
-
-
 ## Bukti Pengerjaan
 
 
-- **Tampilan Desktop:** ![Desktop](/Tugas5/img/web.png)
-- **Tampilan Mobile:** ![Mobile](/Tugas5/img/mobile.png)
+- **Tampilan Desktop:** ![Desktop](/Pertemuan7/tugas7/img/Dekstop.png)
+- **Tampilan Mobile:**
+- ![Mobile](/Pertemuan7/tugas7/img/mobile1.png)
+- ![Mobile](/Pertemuan7/tugas7/img/mobile1-2.png)
